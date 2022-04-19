@@ -1,0 +1,14 @@
+[
+    {
+        "role":"Research Assistant",
+        "company":"[Fraunhofer AISEC](https://www.aisec.fraunhofer.de/)",
+        "summary":"Cognitive Security Technologies.\n- Artificial Intelligence and IT Security\n- Generate adversarial examples for Model Benchmarking\n- Write conference papers",
+        "range":"May 2021 - Feburary 2022"
+    },
+    {
+        "role":"Intern",
+        "company":"[PricewaterhouseCoopers(PwC)](https://www.pwccn.com/en.html)",
+        "summary":"Risk Assurance Team.\n- Project working with China Merchants Bank \n- Robotic Process Automation deployment.",
+        "range":"Aug 2018"
+    }
+]

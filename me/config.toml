@@ -1,0 +1,21 @@
+baseURL = 'https://pmtang.github.io/'
+languageCode = 'en-us'
+title = 'Pengming Tang'
+theme = 'hugo-resume'
+
+[params]
+address = "Munich, Germany"
+email = "pengmingtang@gmail.com"
+
+firstName = "Pengming"
+lastName = "Tang"
+profileImage = "img/profile.jpg"
+favicon = "/favicon.ico"
+
+showQr = true
+showSkills = true
+
+showExperience = true
+showEducation = true
+showBlog = true
+

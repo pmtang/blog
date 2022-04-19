@@ -1,0 +1,26 @@
+[
+    {
+        "school":"[Ludwig-Maximilians-Universität München/University of Munich(LMU)](https://www.lmu.de/de/index.html)",
+        "degree":"Bachelor of Science",
+        "major":"Informatik/Computer Science",
+        "range":"2019 - 2022"
+    },
+    {
+        "school":"[Karlsruhe Institute of Technology(KIT)](https://www.kit.edu/)",
+        "degree":"Studienkolleg",
+        "major":"German Course",
+        "range":"2018 - 2019"
+    },
+    {
+        "school":"[Shenzhen University(SZU)](https://en.szu.edu.cn/)",
+        "degree":"Bachelor of Science",
+        "major":"Automobile Service Engineer",
+        "notes":"Top 1%",
+        "range":"2016 - 2018"
+    },    
+    {
+        "school":"[Shenzhen Middle School(SMS)](http://en.shenzhong.net/)",
+        "range":"2013 - 2016"
+    }
+
+]

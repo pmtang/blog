@@ -1,0 +1,18 @@
+[
+  {
+      "grouping":"Tools & Operating Systems",
+      "skills":[ 
+        "Git",
+        {"name":"Linux (Arch,Ubuntu)","icon":"Linux"},
+        "Google Colab",
+        "Microsoft Office",
+        "Raspberry Pi"]
+  },{
+      "grouping":"Computer Languages",
+      "skills":[ {"name":"Python (numpy,pandas,PyTorch)","icon":"Python"},"Java","C (long time ago)"]
+  },
+  {
+      "grouping":"Natural Languages",
+      "skills":[ "English","German","Mandarin","Cantonese","French(beginner)"]
+  }
+]

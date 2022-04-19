@@ -1,0 +1,4 @@
+[submodule "me/public"]
+	path = me/public
+	url = git@github.com:pmtang/pmtang.github.io.git
+	branch = main
