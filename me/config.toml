@@ -19,3 +19,10 @@ showExperience = true
 showEducation = true
 showBlog = true
 
+[[params.handles]]
+link = "https://www.linkedin.com/in/pengming-tang/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "xing.to/pengming_tang"
+name = "Xing"

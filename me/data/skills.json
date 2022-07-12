@@ -6,13 +6,14 @@
         {"name":"Linux (Arch,Ubuntu)","icon":"Linux"},
         "Google Colab",
         "Microsoft Office",
-        "Raspberry Pi"]
+        "Raspberry Pi",
+        "SolidWorks"]
   },{
       "grouping":"Computer Languages",
-      "skills":[ {"name":"Python (numpy,pandas,PyTorch)","icon":"Python"},"Java","C (long time ago)"]
+      "skills":[ {"name":"Python (numpy,pandas,PyTorch)","icon":"Python"},"Java","C","Haskell"]
   },
   {
       "grouping":"Natural Languages",
-      "skills":[ "English","German","Mandarin","Cantonese","French(beginner)"]
+      "skills":[ "English","German","Mandarin","Cantonese","French(beginner)","Spanish(beginner)"]
   }
 ]

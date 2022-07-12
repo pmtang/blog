@@ -4,11 +4,11 @@ date: 2022-03-31T00:10:08+02:00
 draft: false
 ---
 
-I'm a CS student who bornt in Shenzhen, China and now I live in Munich, Germany.
+Hi, I'm a CS student at LMU and now I live in Munich, Germany.
 
 Currently, I stopped my Research Assistant job at Fraunhofer and focusing on my bachelor's thesis.
 
-In 2016, I started my university studies at Shenzhen University. The career I was pursuing was simply "Automobile engineer". At that time, I was the Top 1 student in our major. In the summer of 2019, I was an Intern at PwC and I'm fascinated by the convenience and the charm of the computer world. I didn't finish my degree in Shenzhen. Instead, I moved to Germany, studied german and applied for Computer Science at the University of Munich in Spring 2019 because the program was much more interesting. I finished all my courses in April 2022 and I'm currently working on my thesis to get my degree in Computer Science. 
+In 2016, I started my university studies at Shenzhen University. The career I was pursuing was simply "Automobile engineer". At that time, I was the Top 1 student in our major. In the summer of 2019, I was an Intern at PwC and I'm fascinated by the convenience and the charm of the computer science. I decided to drop my study in Shenzhen University. After that, I moved to Germany, studied german and applied for Computer Science at the University of Munich in Spring 2019 because the program was very interesting. I finished all my courses in April 2022 and I submited my thesis recently. Currently, I'm waiting for the final result. 
 
 
 
